@@ -79,16 +79,4 @@ public class Main {
 
 
 
-        /*titles.add("Titanic");
-        titles.add("Psy");
-        titles.add("Wonder woman");
-        titles.add("Lost in translation");
-        titles.add("Jumanji");
 
-        titles.forEach(System.out::println);
-
-        //Actors class
-
-        //Actors actor1 = new Actors("");
-    }
-}*/
